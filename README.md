@@ -1,4 +1,5 @@
 # Non-Archimedean-Cosmology
+
 This project explores the Non-Archimedean model, characterized by mathematical structures where the Archimedean property does not hold.
 
 # The Non-Archimedean Cosmological Model
@@ -56,6 +57,9 @@ $$D(\vec{G}_{\text{cosmic}}, \vec{0}) = \max(a_1, a_2, \omega) = \omega$$
 * **Resolution of the Singularity Paradox:** The Big Bang is handled natively within the $\mathbf{On}_2$ field. Infinite energy thresholds do not break down into mathematical undefined errors; they simply occupy a higher algebraic layer.
 * **Elimination of the Horizon Problem:** Perfect uniformity across the early universe is guaranteed because the initial state existed within the single, shared geometric fiber of $\omega$. Uniformity is an intrinsic feature of the non-Archimedean subspace layout rather than a consequence of localized particle interaction.
 * **Conservation of Cosmic Scaffolding:** As the universe expands and populates lower-order finite bits via particle creation ($10^{80}$ atoms), the baseline transfinite metrics ($\omega$) remain completely unaffected and un-diluted behind the scenes.
+
+---
+
 ## 🌌 The Mechanism of Cosmic Inflation & Matrix Transformations
 
 To model **Cosmic Inflation**—the dynamic transition where the universe drops its projection from the isolated transfinite subspace ($\mathcal{V}_{\omega}$) down into the observable finite subspace ($\mathcal{V}_{\text{finite}}$)—we introduce **Nim-Matrix Transformations**. 
@@ -105,7 +109,4 @@ $$\text{Supremum Metric Boundary } (\omega + e_3) \equiv \omega$$
 7. Therefore:
 $$D(\vec{G} \oplus \vec{\mathcal{E}}, \vec{0}) = \omega = D(\vec{G}, \vec{0})$$
 
-**Q.E.D.**  
-This explicitly proves that the localized generation of finite particles, heat, or energy fluctuations ($\vec{\mathcal{E}}$) cannot dilute the primordial transfinite metric canvas ($\omega$). The structural integrity of Christopher Thomas Ronio's cosmic scaffolding remains completely pristine throughout the entire lifetime of the universe.
-
-
+**Q.E.D.**
