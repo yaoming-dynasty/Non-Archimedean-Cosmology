@@ -15,10 +15,10 @@ jobs:
 
     steps:
     - name: Checkout Repository Code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4  # Node 24 Compatible Tier
 
     - name: Set Up Python Environment
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v5 # Node 24 Compatible Tier
       with:
         python-version: '3.11'
 
